@@ -1,0 +1,1 @@
+Prints even index letters in the given string
